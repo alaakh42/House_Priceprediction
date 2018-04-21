@@ -63,7 +63,7 @@ def lgb_modelfit_nocv(params, dtrain, dtrain_target, dvalid, predictors, target=
 
     return bst1
 
-path = '/media/alaa/Study/Houses_price_prediction/'
+path = 'data/'
 
 dtypes = {
 
